@@ -1,4 +1,4 @@
-<h1>Timer Relay w/ 8-seg display</h1>
+<h2 align='center'>Timer Relay w/ 8-seg display</h2>
 
 ### System Overview
 
